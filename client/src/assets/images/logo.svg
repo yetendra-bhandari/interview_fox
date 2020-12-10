@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="150"
+   height="150"
+   viewBox="0 0 39.6875 39.687503"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="fox-logo.svg"
+   inkscape:export-filename="/home/yetendra/Documents/Projects/Graphics/SVG/fox-logo.png"
+   inkscape:export-xdpi="143.99297"
+   inkscape:export-ydpi="143.99297">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="116.82223"
+     inkscape:cy="83.60542"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1346"
+     inkscape:window-height="1013"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid10"
+       originx="-33.810891"
+       originy="-52.582204" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-33.810896,-52.582189)">
+    <g
+       id="g919"
+       transform="matrix(1.2499389,0,0,1.2499389,-8.4506588,-9.601783)">
+      <path
+         style="fill:#c70000;fill-opacity:1;stroke:#000000;stroke-width:1.21747;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.364585,54.239576 c 2.51602,6.598542 20.128157,6.598542 22.64417,0 l 3.774032,9.237957 C 56.605726,67.436657 53.460702,72.71549 49.686673,77.994324 45.912643,72.71549 42.76762,67.436657 34.590558,63.477533 Z"
+         id="path12"
+         sodipodi:nodetypes="cccccc" />
+      <path
+         id="path12-5"
+         style="fill:#a90000;fill-opacity:1;stroke:none;stroke-width:1.15556;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 38.439488,55.651467 -3.077316,7.553453 c 7.763684,3.912005 10.619091,8.893655 14.324759,13.738076 l -0.0129,-17.146392 c -4.924974,-0.06606 -8.927866,-1.39142 -11.234569,-4.145137 z"
+         sodipodi:nodetypes="cccccc" />
+    </g>
+  </g>
+</svg>

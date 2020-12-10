@@ -1,0 +1,10 @@
+@tailwind base;
+
+@font-face {
+    font-family: Ubuntu;
+    src: url(assets/fonts/Ubuntu-Regular.woff) format("woff");
+}
+
+@tailwind components;
+
+@tailwind utilities;

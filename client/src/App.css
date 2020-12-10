@@ -1,0 +1,40 @@
+:root,
+.light {
+  --background: #ffffff;
+  --background-text: #000000;
+  --ui: #0D47A1;
+  --ui-text: #ffffff;
+  --ui-hover: #1565C0;
+  --ui-accent: #e3f0ff;
+  --form-text: #000000;
+  --form-accent: #0D47A1;
+  --form-accent-hover: #1565C0;
+  --avatar: #ffffff;
+  --avatar-hover: #e3f0ff;
+}
+
+.dark {
+  --background: #222831;
+  --background-text: #ececec;
+  --ui: #30475e;
+  --ui-text: #ececec;
+  --ui-hover: #3b5572;
+  --ui-accent: #343f4e;
+  --form-text: #222831;
+  --form-accent: #febf63;
+  --form-accent-hover: #ffce84;
+  --avatar: #ececec;
+  --avatar-hover: #cddae6;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.chatbox {
+  scrollbar-width: none;
+}
+
+.chatbox::-webkit-scrollbar {
+  display: none;
+}
